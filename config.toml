@@ -1,0 +1,41 @@
+baseURL = 'https://xingxiang.me'
+languageCode = 'zh-CN'
+title = "Q's Blog"
+theme = "yinyang"
+
+[params]
+	headTitle = "Q's Blog"
+	description = "Stay Hungry, Stay Foolish."
+	favicon = "/logo.png"
+	mainSections = ["post"]
+	staticPrefix = ""
+
+	extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L3VYXTHNX"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-5L3VYXTHNX");</script>'
+	extraCSSFiles = []
+
+	postHeaderContent = ""
+	postFooterContent = ""
+
+[[params.socials]]
+	name = "My Footprints"
+	link = "/myfootprints"
+
+[author]
+  name = "Q"
+  homepage = "https://xingxiang.me"
+  
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
