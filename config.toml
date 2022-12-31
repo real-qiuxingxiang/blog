@@ -15,6 +15,8 @@ theme = "yinyang"
 
 	postHeaderContent = ""
 	postFooterContent = ""
+	
+	copyright = "2013~2023 Q's Blog - Powered by Hugo."
 
 [[params.socials]]
 	name = "My Footprints"
