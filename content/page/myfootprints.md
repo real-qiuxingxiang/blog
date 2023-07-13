@@ -12,9 +12,9 @@ url: /myfootprints
 
   * [特别行政区][2]：[香港][3]<small><sup>2010</sup></small>、[澳门][4]<small><sup>2017</sup></small>
   * [直辖市][5]：[上海市][6]<small><sup>2016</sup></small>、[北京市][7]<small><sup>2016</sup></small>、[重庆市][8]<small><sup>2020</sup></small>
-  * [广东省][9]：[广州市][10]、[珠海市][11]、[深圳市][12]、[肇庆市][13]、[佛山市][14]、[云浮市][15]、[惠州市][16]<small><sup>2020</sup></small>、<a href="https://zh.wikipedia.org/wiki/韶关市" data-type="URL" data-id="https://zh.wikipedia.org/wiki/韶关市">韶关市</a><small><sup>2021</sup></small>
+  * [广东省][9]：[广州市][10]、[珠海市][11]、[深圳市][12]、[肇庆市][13]、[佛山市][14]、[云浮市][15]、[惠州市][16]<small><sup>2020</sup></small>、[韶关市][119]<small><sup>2021</sup></small>
   * [广西壮族自治区][17]：[桂林市][18]<small><sup>2018</sup></small>
-  * [海南省][19]：[海口市][20]<small><sup>2017</sup></small>、[三亚市][21]<small><sup>2017</sup></small>
+  * [海南省][19]：[海口市][20]<small><sup>2017 2023</sup></small>、[三亚市][21]<small><sup>2017</sup></small>
   * [湖南省][22]：[长沙市][23]<small><sup>2018</sup></small>、[张家界市][24]<small><sup>2018</sup></small>、[衡阳市][25]<small><sup>2018</sup></small>
   * [福建省][26]：[厦门市][27]<small><sup>2016</sup></small>
   * [江西省][28]：[南昌市][29]<small><sup>2018</sup></small>、[九江市][30]<small><sup>2018</sup></small>
@@ -40,7 +40,7 @@ url: /myfootprints
   * [重庆市][8]：[重庆江北国际机场][55]
   * [广东省][9]：[广州白云国际机场][56]<sup>8</sup>、[珠海金湾机场][57]<sup>3</sup>
   * [广西壮族自治区][17]：[桂林两江国际机场][58]
-  * [海南省][19]：[三亚凤凰国际机场][59]
+  * [海南省][19]：[三亚凤凰国际机场][59]、[海口美兰国际机场][118]
   * [湖南省][22]：[长沙黄花国际机场][60]<sup>3</sup>、[衡阳南岳机场][61]
   * [福建省][26]：[厦门高崎国际机场][62]
   * [江西省][28]：[南昌昌北国际机场][63]
@@ -59,7 +59,7 @@ url: /myfootprints
 
 ## 三、搭乘过的航空公司
 
-[中国南方航空][73]<sup>3</sup>、[中国东方航空][74]<sup>2</sup>、[亚洲航空][75]<sup>2</sup>、[山东航空][76]、[长安航空][77]、[中国国际航空][78]、[澳门航空][79]、[长龙航空][80]、[首都航空][81]、[九元航空][82]、[厦门航空][83]、[海南航空][84]、[春秋航空][85]
+[中国南方航空][73]<sup>3</sup>、[中国东方航空][74]<sup>2</sup>、[亚洲航空][75]<sup>2</sup>、[山东航空][76]、[长安航空][77]、[中国国际航空][78]、[澳门航空][79]、[长龙航空][80]、[首都航空][81]、[九元航空][82]、[厦门航空][83]、[海南航空][84]<sup>2</sup>、[春秋航空][85]
 
 ## 四、去过的火车站
 
@@ -197,7 +197,9 @@ url: /myfootprints
  [115]: https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AE%89%E5%8C%97%E7%AB%99
  [116]: https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%A1%AC%E7%AB%99
  [117]: https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E4%B8%9C%E7%AB%99
+ [118]: https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%8F%A3%E7%BE%8E%E5%85%B0%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA
  [118]: https://zh.wikipedia.org/wiki/%E5%B9%BF%E6%B1%89%E5%8C%97%E7%AB%99
+ [119]: https://zh.wikipedia.org/wiki/%E9%9F%B6%E5%85%B3%E5%B8%82
  [119]: https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%B1%B1%E7%AB%99_(%E6%B3%B0%E5%AE%89)
  [120]: https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%AE%89%E7%AB%99
  [121]: https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E7%AB%99
