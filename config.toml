@@ -1,4 +1,4 @@
-baseURL = 'https://xingxiang.me'
+baseURL = 'https://998225.xyz'
 languageCode = 'zh-CN'
 title = "Q's Blog"
 theme = "yinyang"
@@ -24,7 +24,7 @@ theme = "yinyang"
 
 [author]
   name = "Q"
-  homepage = "https://xingxiang.me"
+  homepage = "https://998225.xyz"
   
 [markup]
   [markup.highlight]
