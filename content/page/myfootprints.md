@@ -12,7 +12,7 @@ url: /myfootprints
 
   * [特别行政区][2]：[香港][3]<small><sup>2010</sup></small>、[澳门][4]<small><sup>2017</sup></small>
   * [直辖市][5]：[上海市][6]<small><sup>2016</sup></small>、[北京市][7]<small><sup>2016</sup></small>、[重庆市][8]<small><sup>2020</sup></small>
-  * [广东省][9]：[广州市][10]、[珠海市][11]、[深圳市][12]、[肇庆市][13]、[佛山市][14]、[云浮市][15]、[惠州市][16]<small><sup>2020</sup></small>、[韶关市][119]<small><sup>2021</sup></small>
+  * [广东省][9]：[广州市][10]、[珠海市][11]、[深圳市][12]、[肇庆市][13]、[佛山市][14]、[云浮市][15]、[惠州市][16]<small><sup>2020</sup></small>、[韶关市][119]<small><sup>2021</sup></small>、[茂名市][123]<small><sup>2023</sup></small>、[吴川市][124]<small><sup>2024</sup></small>
   * [广西壮族自治区][17]：[桂林市][18]<small><sup>2018</sup></small>
   * [海南省][19]：[海口市][20]<small><sup>2017 2023</sup></small>、[三亚市][21]<small><sup>2017</sup></small>
   * [湖南省][22]：[长沙市][23]<small><sup>2018</sup></small>、[张家界市][24]<small><sup>2018</sup></small>、[衡阳市][25]<small><sup>2018</sup></small>
@@ -204,3 +204,5 @@ url: /myfootprints
  [120]: https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%AE%89%E7%AB%99
  [121]: https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E7%AB%99
  [122]: https://zh.wikipedia.org/wiki/%E5%93%88%E5%B0%94%E6%BB%A8%E5%8C%97%E7%AB%99
+ [123]: https://zh.wikipedia.org/wiki/%E8%8C%82%E5%90%8D%E5%B8%82
+ [124]: https://zh.wikipedia.org/wiki/%E5%90%B4%E5%B7%9D%E5%B8%82
